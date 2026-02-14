@@ -31,4 +31,13 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 
-![Skills](https://skillicons.dev/icons?i=python,js,react,ts,node)
+![Skills](https://skillicons.dev/icons?i=vscode,lua,html,css,js,php,cloudflare,nodejs,mysql,blender,java)
+
+
+<details>
+  <summary>🕵️‍♂️ Find My Secret Level</summary>
+  <p align="center">
+    <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"/>
+  </p>
+  <p align="center">You've unlocked the hidden animation 😎</p>
+</details>
