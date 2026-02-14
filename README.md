@@ -8,7 +8,7 @@
 
 - 👋 Hi, I’m Lucas
 - 💻 I'm a Backend and Frontend Developer.
-- 🔭 Main Area Fivem/Website Developer.
+- 🔭 Main Area Fivem/Website Development.
 - 📫 How to reach me
   - Discord: **lucas.777.187**
 
@@ -35,3 +35,7 @@
 ![Skills](https://skillicons.dev/icons?i=vscode,lua,html,css,js,php,cloudflare,nodejs,mysql,blender,java,markdown)
 
 
+<img src="https://elevate-5m.de/pngkey.com-gta-5-online-logo-1899415.png" 
+     width="250" 
+     style="position:relative; top:-407px; right:-600px;" 
+     alt="GTA 5 Logo">
