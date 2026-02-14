@@ -34,4 +34,3 @@
 ![Skills](https://skillicons.dev/icons?i=vscode,lua,html,css,js,php,cloudflare,nodejs,mysql,blender,java)
 
 
-![Quote](https://quotes-github-readme.vercel.app/api?theme=dark)
