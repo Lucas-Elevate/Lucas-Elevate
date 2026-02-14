@@ -13,7 +13,7 @@
   - Discord: **lucas.777.187**
 
 # Languages and Tools:
-![VS CODE](https://img.shields.io/badge/VSCode-F38020?style=flat&logo=codecrafters&logoColor=white)
+![VS CODE](https://img.shields.io/badge/VSCode-%230078D6?style=flat&logo=codecrafters&logoColor=white)
 ![Fivem](https://img.shields.io/badge/Fivem-F38020?style=flat&logo=Fivem&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/Microsoft-%230078D6.svg?style=flat&logo=microsoft&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-%232C2C2C.svg?style=flat&logo=blender&logoColor=F5792A)
