@@ -33,9 +33,3 @@
 ![Markdown](https://img.shields.io/badge/Markdown-grey?logo=markdown)
 
 ![Skills](https://skillicons.dev/icons?i=vscode,lua,html,css,js,php,cloudflare,nodejs,mysql,blender,java,markdown)
-
-
-<img src="https://elevate-5m.de/pngkey.com-gta-5-online-logo-1899415.png" 
-     width="250" 
-     style="position:relative; top:-407px; right:-600px;" 
-     alt="GTA 5 Logo">
